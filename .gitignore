@@ -1,0 +1,15 @@
+# Local maintenance and verification files; not part of the published site.
+*.py
+*.command
+*.orig
+ego_audit_full.js
+audit_results.json
+crawled_pages.json
+blog_backup/
+
+# Local visual test captures.
+blog_audio_verified.png
+local_*.png
+music_audio_*.png
+online_*.png
+test_*.png
